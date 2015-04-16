@@ -2,7 +2,7 @@
 
 define ng N G -> ᡊ ;
 
-define all [ A -> ᠠ ,
+define all [ A -> ᠠ ;
 E -> ᡄ ,
 I -> ᡅ ,
 0 -> ᡆ ,
@@ -26,7 +26,7 @@ Z -> ᡓ ,
 j -> ᡚ ;
 !:  -> ᡃ ,
 !, -> ᠂ ,
-!. -> ᠃ ,
+!. -> ᠃ ] ;
 
 read regex [ ng
 .o. all ] ;
