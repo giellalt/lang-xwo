@@ -4,7 +4,7 @@
 
 LEXICON Cases
 +N+sg+nom:0     #   ;
-+N+pl+nom:i     #   ;
++N+pl+nom:NAR     #   ;
 +N+sg+loc:as    #   ;
 +N+pl+loc:ias   #   ;
 +N+sg+acc:at    #   ;
