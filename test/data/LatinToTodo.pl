@@ -5,7 +5,7 @@ while (<>)
 
 {
 
-s/N G/ᡊ/g ;
+s/NG/ᡊ/g ;
 s/A/ᠠ/g ;
 s/E/ᡄ/g ;
 s/I/ᡅ/g ;
