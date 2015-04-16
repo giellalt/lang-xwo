@@ -3,6 +3,6 @@
 !! Nouns in UNDEFINED language are things.
 
 LEXICON Nouns
-AB    Cases   ;
+A%:BV    Cases   ;
 
 ! vim: set ft=xfst-lexc:
