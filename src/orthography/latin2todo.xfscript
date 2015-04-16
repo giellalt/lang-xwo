@@ -1,35 +1,36 @@
 !! Latin-Todo Convert
 
-define ng N G -> ᡊ ;
 
-define all [ A -> ᠠ ;
-E -> ᡄ ,
-I -> ᡅ ,
-0 -> ᡆ ,
-V -> ᡇ ,
-O -> ᡈ ,
-U -> ᡉ ,
-N -> ᠨ ,
-B -> ᡋ ,
-P -> ᠫ ,
-H -> ᡍ ,
-G -> ᡎ ,
-M -> ᠮ ,
-L -> ᠯ ,
-S -> ᠰ ,
-$ -> ᠱ ,
-D -> ᡑ ,
-T -> ᡐ ,
-C -> ᡒ ,
-c -> ᡔ ,
-Z -> ᡓ ,
-j -> ᡚ ] ;
+define ng N G -> ᡊ ;
+define otherletters  A -> ᠠ ;
+!E -> ᡄ ,
+!I -> ᡅ ,
+!0 -> ᡆ ,
+!V -> ᡇ ,
+!O -> ᡈ ,
+!U -> ᡉ ,
+!N -> ᠨ ,
+!B -> ᡋ ,
+!P -> ᠫ ,
+!H -> ᡍ ,
+!G -> ᡎ ,
+!M -> ᠮ ,
+!L -> ᠯ ,
+!S -> ᠰ ,
+!$ -> ᠱ ,
+!D -> ᡑ ,
+!T -> ᡐ ,
+!C -> ᡒ ,
+!c -> ᡔ ,
+!Z -> ᡓ ,
+!j -> ᡚ  ;
 !:  -> ᡃ ,
 !, -> ᠂ ,
 !. -> ᠃ ] ;
 
-read regex [ ng
-.o. all ] ;
+read regex [ ng .o. otherletters ] ;
+
+
 
 
 
