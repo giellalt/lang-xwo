@@ -29,6 +29,8 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 !! The parts-of-speech are:
  +N +A +Adv +V                                 !!≈
  +Pron +CS +CC +Adp +Po +Pr +Interj +Pcle +Num !!≈
+ +Sg +Pl
+ +Nom +Acc +Gen +Loc
 
 !! The parts of speech are further split up into:
  +Prop +Pers +Dem +Interr +Refl +Recipr +Rel +Indef
