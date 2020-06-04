@@ -1,0 +1,9 @@
+name = "Written Oirat"
+version = "@SPELLERVERSION@"
+
+[macos]
+system_pkg_id = "no.divvun.MacDivvun.xwo"
+
+[windows]
+system_product_code = "C08B9216-1BC0-4757-8B95-36E246685003"
+msoffice_product_code = "B81344CB-EFDF-4882-BD15-E8AC539C2729"
