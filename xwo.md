@@ -1,3 +1,53 @@
+Noun inflection
+The Written Oirat language nouns inflect in cases.
+
+
+Proper noun inflection
+The Written Oirat language proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
+
+
+
+
+# Symbol affixes
+
+
+
+
+
+Adjective inflection
+The Written Oirat language adjectives compare.
+
+
+
+Verb inflection
+The Written Oirat language verbs inflect in persons.
+
+
+
+=================================== !
+The Written Oirat morphophonological/twolc rules file !
+=================================== !
+
+
+
+
+
+
+
+
+* *primus%>s*
+* *primus00*
+
+
+* examples:*
+
+* examples:*
+
+
+* examples:*
+
+* examples:*
 
 # Written Oirat morphological analyser                      !
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Written Oirat LANGUAGE.
@@ -77,6 +127,85 @@ given the proper use of these flags.
 
 The word forms in Written Oirat language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
+
+Nouns
+Nouns in the Written Oirat language are things.
+
+
+Prefixes
+Prefixes in the Written Oirat language are bound to beginning of other words.
+
+
+
+Pronouns
+Pronouns in the Written Oirat language are references to things.
+
+
+Adjectives
+Adjectives in the Written Oirat language describe things.
+
+
+Verbs
+Verbs in the Written Oirat language are actions.
+
+
+Numerals
+Numerals in the Written Oirat language are numbers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+% komma% :,      Root ;
+% tjuohkkis% :%. Root ;
+% kolon% :%:     Root ;
+% sárggis% :%-   Root ; 
+% násti% :%*     Root ; 
 
 
 

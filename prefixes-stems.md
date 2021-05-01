@@ -1,0 +1,5 @@
+Prefixes
+Prefixes in the Written Oirat language are bound to beginning of other words.
+
+
+
