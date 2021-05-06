@@ -1,28 +1,26 @@
-Noun inflection
-The Written Oirat language nouns inflect in cases.
+Nouns
+Nouns in the Written Oirat language are things.
 
 
-Proper noun inflection
-The Written Oirat language proper nouns inflect in the same cases as regular
-nouns, but with a colon (':') as separator.
+Numerals
+Numerals in the Written Oirat language are numbers.
 
 
+Verbs
+Verbs in the Written Oirat language are actions.
 
 
-# Symbol affixes
-
-
-
-
-
-Adjective inflection
-The Written Oirat language adjectives compare.
+Prefixes
+Prefixes in the Written Oirat language are bound to beginning of other words.
 
 
 
-Verb inflection
-The Written Oirat language verbs inflect in persons.
+Adjectives
+Adjectives in the Written Oirat language describe things.
 
+
+Pronouns
+Pronouns in the Written Oirat language are references to things.
 
 
 =================================== !
@@ -48,6 +46,33 @@ The Written Oirat morphophonological/twolc rules file !
 * examples:*
 
 * examples:*
+
+# Symbol affixes
+
+
+
+
+
+Noun inflection
+The Written Oirat language nouns inflect in cases.
+
+
+Proper noun inflection
+The Written Oirat language proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
+
+
+
+Verb inflection
+The Written Oirat language verbs inflect in persons.
+
+
+
+Adjective inflection
+The Written Oirat language adjectives compare.
+
+
+
 
 # Written Oirat morphological analyser                      !
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Written Oirat LANGUAGE.
@@ -128,29 +153,20 @@ given the proper use of these flags.
 The word forms in Written Oirat language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
 
-Nouns
-Nouns in the Written Oirat language are things.
-
-
-Prefixes
-Prefixes in the Written Oirat language are bound to beginning of other words.
 
 
 
-Pronouns
-Pronouns in the Written Oirat language are references to things.
+We describe here how abbreviations are in Written Oirat are read out, e.g.
+for text-to-speech systems.
 
+For example:
 
-Adjectives
-Adjectives in the Written Oirat language describe things.
-
-
-Verbs
-Verbs in the Written Oirat language are actions.
-
-
-Numerals
-Numerals in the Written Oirat language are numbers.
+ * s.:syntynyt # ;  
+ * os.:omaa% sukua # ;  
+ * v.:vuosi # ;  
+ * v.:vuonna # ;  
+ * esim.:esimerkki # ; 
+ * esim.:esimerkiksi # ; 
 
 
 
@@ -206,20 +222,4 @@ Numerals in the Written Oirat language are numbers.
 % kolon% :%:     Root ;
 % sárggis% :%-   Root ; 
 % násti% :%*     Root ; 
-
-
-
-
-We describe here how abbreviations are in Written Oirat are read out, e.g.
-for text-to-speech systems.
-
-For example:
-
- * s.:syntynyt # ;  
- * os.:omaa% sukua # ;  
- * v.:vuosi # ;  
- * v.:vuonna # ;  
- * esim.:esimerkki # ; 
- * esim.:esimerkiksi # ; 
-
 
