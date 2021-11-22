@@ -606,38 +606,7 @@ These were the set types.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-xwo/blob/main/../src/cg3/functions.cg3)</small>Nouns
-Nouns in the Written Oirat language are things.
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/nouns.lexc](http://github.com/giellalt/lang-xwo/blob/main/../src/fst/stems/nouns.lexc)</small>Prefixes
-Prefixes in the Written Oirat language are bound to beginning of other words.
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/prefixes.lexc](http://github.com/giellalt/lang-xwo/blob/main/../src/fst/stems/prefixes.lexc)</small>Adjectives
-Adjectives in the Written Oirat language describe things.
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/adjectives.lexc](http://github.com/giellalt/lang-xwo/blob/main/../src/fst/stems/adjectives.lexc)</small>Verbs
-Verbs in the Written Oirat language are actions.
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/verbs.lexc](http://github.com/giellalt/lang-xwo/blob/main/../src/fst/stems/verbs.lexc)</small>Numerals
-Numerals in the Written Oirat language are numbers.
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-xwo/blob/main/../src/fst/stems/numerals.lexc)</small>Pronouns
-Pronouns in the Written Oirat language are references to things.
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-xwo/blob/main/../src/fst/stems/pronouns.lexc)</small>=================================== !
+<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-xwo/blob/main/../src/cg3/functions.cg3)</small>=================================== !
 The Written Oirat morphophonological/twolc rules file !
 =================================== !
 
@@ -661,7 +630,20 @@ The Written Oirat morphophonological/twolc rules file !
 
 * examples:*
 * * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-xwo/blob/main/../src/fst/phonology.twolc)</small>Noun inflection
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-xwo/blob/main/../src/fst/phonology.twolc)</small>Verb inflection
+The Written Oirat language verbs inflect in persons.
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-xwo/blob/main/../src/fst/affixes/verbs.lexc)</small>Proper noun inflection
+The Written Oirat language proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-xwo/blob/main/../src/fst/affixes/propernouns.lexc)</small>Noun inflection
 The Written Oirat language nouns inflect in cases.
 
 
@@ -680,20 +662,38 @@ The Written Oirat language adjectives compare.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-xwo/blob/main/../src/fst/affixes/adjectives.lexc)</small>Verb inflection
-The Written Oirat language verbs inflect in persons.
+<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-xwo/blob/main/../src/fst/affixes/adjectives.lexc)</small>Pronouns
+Pronouns in the Written Oirat language are references to things.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-xwo/blob/main/../src/fst/stems/pronouns.lexc)</small>Numerals
+Numerals in the Written Oirat language are numbers.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-xwo/blob/main/../src/fst/stems/numerals.lexc)</small>Verbs
+Verbs in the Written Oirat language are actions.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/verbs.lexc](http://github.com/giellalt/lang-xwo/blob/main/../src/fst/stems/verbs.lexc)</small>Prefixes
+Prefixes in the Written Oirat language are bound to beginning of other words.
 
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-xwo/blob/main/../src/fst/affixes/verbs.lexc)</small>Proper noun inflection
-The Written Oirat language proper nouns inflect in the same cases as regular
-nouns, but with a colon (':') as separator.
-
+<small>This (part of) documentation was generated from [../src/fst/stems/prefixes.lexc](http://github.com/giellalt/lang-xwo/blob/main/../src/fst/stems/prefixes.lexc)</small>Nouns
+Nouns in the Written Oirat language are things.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-xwo/blob/main/../src/fst/affixes/propernouns.lexc)</small>
+<small>This (part of) documentation was generated from [../src/fst/stems/nouns.lexc](http://github.com/giellalt/lang-xwo/blob/main/../src/fst/stems/nouns.lexc)</small>Adjectives
+Adjectives in the Written Oirat language describe things.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/adjectives.lexc](http://github.com/giellalt/lang-xwo/blob/main/../src/fst/stems/adjectives.lexc)</small>
 # Written Oirat morphological analyser                      !
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Written Oirat LANGUAGE.
 
