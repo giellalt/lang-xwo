@@ -7,6 +7,11 @@
 
 This page documents the work on the **Written Oirat language model**. 
 
+Nothing has been done to the analyser yet, it just contains dummy files.
+
+The folder contains a setup for translating between different
+alphabets of Todo Oirat.
+
 # Project documentation
 
 * Add links to project specific documentation here as needed. Keep the documentation in the `docs/` directory.
