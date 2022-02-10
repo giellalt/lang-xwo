@@ -1,7 +1,7 @@
 # Written Oirat documentation
 
 [![Maturity: Experiment](https://img.shields.io/badge/Maturity-Experiment-black.svg)](https://giellalt.github.io/MaturityClassification.html)
-[![License](https://img.shields.io/github/license/giellalt/lang-xwo)](https://raw.githubusercontent.com/giellalt/lang-xwo/main/LICENSE)
+[![License](https://img.shields.io/github/license/giellalt/lang-xwo)](https://github.com/giellalt/lang-xwo/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-xwo)](https://github.com/giellalt/lang-xwo/issues)
 [![Build status](https://github.com/giellalt/lang-xwo/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-xwo/actions)
 
