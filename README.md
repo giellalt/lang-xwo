@@ -4,6 +4,8 @@ The Written Oirat morphology and tools
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-xwo)](https://github.com/giellalt/lang-xwo/issues)
 [![Build Status](https://divvun-tc.thetc.se/api/github/v1/repository/giellalt/lang-xwo/main/badge.svg)](https://github.com/giellalt/lang-xwo/actions)
 [![License](https://img.shields.io/github/license/giellalt/lang-xwo)](https://github.com/giellalt/lang-xwo/blob/main/LICENSE)
+[![Desktop speller download](https://img.shields.io/badge/download%40latest-desktop--bhfst-brightgreen)](https://pahkat.uit.no/main/download/speller-xwo?platform=desktop&channel=nightly)
+[![Mobile speller download](https://img.shields.io/badge/download%40latest-mobile--bhfst-brightgreen)](https://pahkat.uit.no/main/download/speller-xwo?platform=mbile&channel=nightly)
 
 This repository contains finite state source files for the Written Oirat language,
 for building morphological analysers, proofing tools
