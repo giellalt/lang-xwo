@@ -1,5 +1,6 @@
 # Written Oirat documentation
 
+[![Maturity](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-xwo%2Fgh-pages%2Fmaturity.json)](https://giellalt.github.io/MaturityClassification.html)
 ![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-xwo%2Fgh-pages%2Flemmacount.json)
 [![License](https://img.shields.io/github/license/giellalt/lang-xwo)](https://github.com/giellalt/lang-xwo/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-xwo)](https://github.com/giellalt/lang-xwo/issues)
