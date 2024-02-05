@@ -1,5 +1,5 @@
-name = "Written Oirat"
-version = "0.1.1"
+spellername = "Written Oirat"
+spellerversion = "0.1.1"
 
 # Name of the speller package in various languages.
 # The default is English + autonym:
