@@ -1,6 +1,3 @@
-spellername = "Written Oirat"
-spellerversion = "0.1.1"
-
 # Name of the speller package in various languages.
 # The default is English + autonym:
 [speller.name]
@@ -22,3 +19,15 @@ legacy_product_codes = [
     { value = "C08B9216-1BC0-4757-8B95-36E246685003", kind = "nsis" },
     { value = "B81344CB-EFDF-4882-BD15-E8AC539C2729", kind = "nsis" }
 ]
+
+[package.speller]
+name = "Written Oirat"
+version = "0.1.1"
+
+[package.grammar]
+name = "Written Oirat"
+version = "0.1.0"
+
+[package.tts-text-proc]
+name = "Written Oirat"
+version = "0.1.0"
