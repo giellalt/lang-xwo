@@ -1,8 +1,8 @@
 The Written Oirat morphology and tools
 ==========================================
 
-[![Maturity](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-xwo%2Fmain%2Fdocs%2Fbadgedata%2Ffst-maturity.json)](https://giellalt.github.io/MaturityClassification.html)
-![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-xwo%2Fmain%2Fdocs%2Fbadgedata%2Ffst-lemmacount.json)
+[![Maturity](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-xwo%2Fgenerated%2Fdocs-data%2Ffst-maturity.json)](https://giellalt.github.io/MaturityClassification.html)
+![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-xwo%2Fgenerated%2Fdocs-data%2Ffst-lemmacount.json)
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-xwo)](https://github.com/giellalt/lang-xwo/issues)
 [![License](https://img.shields.io/github/license/giellalt/lang-xwo)](https://github.com/giellalt/lang-xwo/blob/main/LICENSE)
 [![Doc build](https://img.shields.io/github/actions/workflow/status/giellalt/lang-xwo/docs.yml?logo=github&label=DocCI)](https://github.com/giellalt/lang-xwo/actions/workflows/docs.yml)
